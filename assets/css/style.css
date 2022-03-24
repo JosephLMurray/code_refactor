@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*changed div child of header in CSS to nav to reflect HTML changes*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
